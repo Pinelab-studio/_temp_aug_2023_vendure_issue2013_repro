@@ -1,0 +1,15 @@
+{
+  "name": "_temp_aug_2023_vendure_issue2013_repro",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@swc/core": "1.3.74",
+    "@vendure/core": "2.0.5",
+    "@vendure/testing": "2.0.5",
+    "typescript": "4.9.5",
+    "unplugin-swc": "1.3.2",
+    "vitest": "0.34.1"
+  }
+}
