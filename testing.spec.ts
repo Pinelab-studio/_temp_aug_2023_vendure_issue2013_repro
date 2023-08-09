@@ -84,7 +84,7 @@ import {
       }
   `;
   
-  describe("Order export plugin", function() {
+  describe("Hydration issue", function() {
     let server: TestServer;
     let adminClient: SimpleGraphQLClient;
     let shopClient: SimpleGraphQLClient;
